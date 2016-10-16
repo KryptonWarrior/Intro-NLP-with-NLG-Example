@@ -52,7 +52,7 @@ from nltk import bigrams, trigrams
 from stop_words import get_stop_words
 import os
 
-os.chdir('C:/Users/Moeen/Desktop/')
+os.chdir('~/Desktop/')
 text = open('../Desktop/AskIrina/Question.txt', "r")
 
 # removing stopwords from the text
