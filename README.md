@@ -1,7 +1,1 @@
-# Intro NLP with NLG Example
-It is introduction of NLP for newbies with a cool NLG example. You will learn to build a simple online virtual assistant by using Python.
-
-```python
-s = "Python syntax highlighting"
-print s
-```
+AskIrina was my first project in python. I wanted to learn python by working on a cool NLP project. Since I was impressed with NextIT virtual online assistance product “Ask Jenn”, I decided to make a simple version of that.  If you are newbie, please take a look at my presentation, [“Intro NLP”]( https://goo.gl/JFwyTJ). It gives you a general idea about NLP process.
